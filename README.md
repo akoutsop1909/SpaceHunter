@@ -3,4 +3,5 @@ Space Shooter Game\
 Work in progress\
 Use WASD or arrow keys to fly the ship\
 =======================================\
-Last modified: 30/5/2019
+Last modified: 3/6/2019\
+Version 0.2
