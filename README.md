@@ -6,5 +6,5 @@ Click mouse to fire\
 Collect tokens to increase your score and powerup your ship\
 Beat your previous hi-score\
 =======================================\
-Last modified: 9/6/2019\
-Version: 0.5
+Last modified: 12/6/2019\
+Version: 0.6
