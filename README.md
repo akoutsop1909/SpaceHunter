@@ -1,6 +1,7 @@
 # Space Hunter
 Space Shooter Game\
 Work in progress\
+Press "Esc" to pause the game\
 Use WASD or arrow keys to fly the ship\
 Click mouse to fire\
 Collect tokens to increase your score and powerup your ship\
