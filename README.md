@@ -1,5 +1,5 @@
 # Space Hunter
-Space Hunter is a top-down arcade-style space shooter with modern 2D graphics. Smartly pilot your spaceship through a hazardous asteroid field. Shoot or dodge incoming asteroids of various sizes to stay alive as long as possible. From time to time, tokens with powerful abilities spawn at random positions to aid you in your quest. Don't forget to collect them along the way if you can.
+Space Hunter is a 2D top-down arcade-style space shooter with beautiful modern graphics. Smartly pilot your spaceship through a hazardous asteroid field. Shoot or dodge incoming asteroids of various sizes to stay alive as long as possible. From time to time, tokens with powerful abilities spawn at random positions to aid you in your quest. Don't forget to collect them along the way if you can.
 
 * Easy to play
 * Keeps track of your hi-score
