@@ -25,4 +25,4 @@ Space Hunter is a top-down arcade-style space shooter with modern 2D graphics. S
 * Demo Recording: OBS Studio
 
 ## Demo Video
-https://user-images.githubusercontent.com/51194516/185948011-eabddf9c-fdf0-44f5-aa08-ce14a5b4d3c9.mp4
+https://user-images.githubusercontent.com/51194516/186203435-9a9f79f4-2f12-46be-8a95-52ad8215367a.mp4
