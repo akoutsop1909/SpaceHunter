@@ -4,9 +4,9 @@ Space Hunter is a 2D top-down arcade-style space shooter with beautiful modern g
 * Easy to play
 * Keeps track of your hi-score
 * Compatiable with Windows-64 systems
-* Launch the game by opening ```Space Hunter.exe```
-* Exit at any time by pressing "Esc" and clicking "quit"
-* Folder "Scripts" contains all the game's C# code 
+* Open ```Space Hunter.exe``` to launch the game
+* Press "Esc" and click "quit" to exit at any time
+* All the game's C# code in the "Scripts" folder 
 
 ## Controls
 * Movement: WASD keys
